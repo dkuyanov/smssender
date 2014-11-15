@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SmsSender.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AC87943866bc8a396c5758cd8b4732abb2</Value>
+    </Setting>
+    <Setting Name="Token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c17786ce256ffa862d249ee5aa31c5c3</Value>
+    </Setting>
+    <Setting Name="Number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+12242315469</Value>
+    </Setting>
+    <Setting Name="ProxyHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">proxy.omgtu</Value>
+    </Setting>
+    <Setting Name="ProxyPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
